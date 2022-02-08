@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.title.red{
+  color: red;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.webdev{
+  width: 300px;
+}
